@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4137a30cfafe4d5499510cf1bdb4e42c
+guid: e2cbbeb3b4f1ac943828a510f1a79b7d
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: manchas_de_acido
+  - name: "Poci\xF3n_Roja"
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: -0.18181819}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 720
-      height: 480
-    spriteID: 33c211a966adaee4daad971afbc7a286
+      width: 30
+      height: 33
+    spriteID: 883d4a36db268a34e8c2af12615373c8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,25 +144,25 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 552666696
-    name: manchas_de_acido
+    guid: 1798200313
+    name: "Poci\xF3n_Roja"
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: manchas_de_acido
+    - name: "Poci\xF3n_Roja"
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 0
-        y: 0
-        width: 720
-        height: 480
-      spriteId: 33c211a966adaee4daad971afbc7a286
+        x: 9
+        y: 6
+        width: 30
+        height: 33
+      spriteId: 883d4a36db268a34e8c2af12615373c8
     linkedCells: []
     parentIndex: -1
   platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 720, y: 480}
+  canvasSize: {x: 48, y: 48}
