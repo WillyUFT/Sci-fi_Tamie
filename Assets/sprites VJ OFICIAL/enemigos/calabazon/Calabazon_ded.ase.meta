@@ -77,7 +77,6 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
@@ -90,7 +89,6 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
@@ -252,7 +250,6 @@ ScriptedImporter:
     cells:
     - name: Calabazon_ded_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -261,7 +258,6 @@ ScriptedImporter:
       spriteId: 6865db9be77129e44851f0419c1525bc
     - name: Calabazon_ded_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -270,7 +266,6 @@ ScriptedImporter:
       spriteId: d0cdc2f49bc86c04e8939ebf265ddf9b
     - name: Calabazon_ded_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -279,7 +274,6 @@ ScriptedImporter:
       spriteId: b6739519d10defe468ae197425af8028
     - name: Calabazon_ded_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -288,7 +282,6 @@ ScriptedImporter:
       spriteId: 90b547cbf714b3c4da1f81253e6b3e45
     - name: Calabazon_ded_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -297,7 +290,6 @@ ScriptedImporter:
       spriteId: 1107b1b8c09fd65479147495c819283a
     - name: Calabazon_ded_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -307,7 +299,6 @@ ScriptedImporter:
     linkedCells: []
     parentIndex: -1
   platformSettings: []
-  generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 48, y: 78}
