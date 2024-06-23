@@ -172,7 +172,6 @@ ScriptedImporter:
     cells:
     - name: Calabazon_move_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 3
@@ -181,7 +180,6 @@ ScriptedImporter:
       spriteId: e66493b0e5be2c042bbf81b87f570213
     - name: Calabazon_move_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 3

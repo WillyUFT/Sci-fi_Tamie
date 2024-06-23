@@ -452,7 +452,6 @@ ScriptedImporter:
     cells:
     - name: slimewall_animated_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -461,7 +460,6 @@ ScriptedImporter:
       spriteId: 017515494a27c0e4d8e146a7860ba78e
     - name: slimewall_animated_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -470,7 +468,6 @@ ScriptedImporter:
       spriteId: 2c131d91709c1a743b9405881f22e11c
     - name: slimewall_animated_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -479,7 +476,6 @@ ScriptedImporter:
       spriteId: 1bce1557aff28f84281b4962392b309d
     - name: slimewall_animated_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -488,7 +484,6 @@ ScriptedImporter:
       spriteId: a4442cd16130b3e46bf49121b0ada5c8
     - name: slimewall_animated_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -497,7 +492,6 @@ ScriptedImporter:
       spriteId: b7aabedfb19632d46a3828b22df42269
     - name: slimewall_animated_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -506,7 +500,6 @@ ScriptedImporter:
       spriteId: 026f493ba744eab4ba335808b4e1fa8a
     - name: slimewall_animated_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -515,7 +508,6 @@ ScriptedImporter:
       spriteId: 2d468ce19104a7f418b54786c936204a
     - name: slimewall_animated_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -524,7 +516,6 @@ ScriptedImporter:
       spriteId: 45341ffd8d75e0b4c90df636443d332b
     - name: slimewall_animated_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -533,7 +524,6 @@ ScriptedImporter:
       spriteId: 3aab8936a263e0f4699d0c66a1e25768
     - name: slimewall_animated_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -542,7 +532,6 @@ ScriptedImporter:
       spriteId: 09932056bb78dad47a20b28f89201841
     - name: slimewall_animated_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -551,7 +540,6 @@ ScriptedImporter:
       spriteId: 04b81f52551cf604e905ba34fdf06647
     - name: slimewall_animated_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -560,7 +548,6 @@ ScriptedImporter:
       spriteId: a882e0616a4f4ad4288c017077b4f187
     - name: slimewall_animated_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -569,7 +556,6 @@ ScriptedImporter:
       spriteId: 79016260a878bf64cbeb497a3f0b75d8
     - name: slimewall_animated_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -578,7 +564,6 @@ ScriptedImporter:
       spriteId: 68104a2d68dbffc4f900766794402464
     - name: slimewall_animated_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -587,7 +572,6 @@ ScriptedImporter:
       spriteId: 3c120a1a84cc58846ae96404b5774b4a
     - name: slimewall_animated_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
